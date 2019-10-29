@@ -1,7 +1,12 @@
 body {
-	background-color: #FFFF00;
-	font-family: Roboto, san-serif;
+	background-color: #C3D0FF;
 }
-h1, p {
-	color: #0000FF;
+h1 {
+	color: #F2F2F2;
+	font-family: Roboto, san-serif;
+	font-size: 210px;
+
+}
+p {font-family: Roboto, san-serif;
+	font-size: 80px;
 }
