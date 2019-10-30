@@ -1,12 +1,28 @@
 body {
-	background-color: #C3D0FF;
+	background-color: #C3D0FF
 }
+
 h1 {
 	color: #F2F2F2;
 	font-family: Roboto, san-serif;
-	font-size: 210px;
-
+	font-size: 180px;
 }
+
+#second{
+	color:#F2F2F2;
+	font-family: Roboto, san-serif;
+	font-weight: bold;
+}
+
 p {font-family: Roboto, san-serif;
-	font-size: 80px;
+	font-size: 40px;
+}
+
+.important{
+	font-size: 60px;
+	font-color:#229D95;
+}
+
+a{
+	font-style:italic;
 }
