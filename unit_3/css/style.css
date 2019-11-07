@@ -3,15 +3,15 @@ body {
 }
 
 h1 {
-	color: #F2F2F2;
-	font-family: Roboto, san-serif;
-	font-size: 200px;
+	color: #FFDB76;
+	font-family: Garamond, serif;
+	font-size: 20px;
 }
 
 #second{
 	color:#F2F2F2;
 	font-family: Roboto, san-serif;
-	font-weight: bold
+	font-weight: bold;
 	font-size: 200px;
 }
 
