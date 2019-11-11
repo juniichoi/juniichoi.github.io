@@ -4,9 +4,14 @@ body {
 
 h1 {
 	color: #636363;
-	font-family: PT serif, serif;
-	font-size: 32px;
+	font-family: 'Jomolhari', serif;
+	font-size: 2em;
 	text-align:center;
+	margin:500px;
+}
+
+p {font-family: Roboto, san-serif;
+	font-size: 40px;
 }
 
 #second{
@@ -16,10 +21,6 @@ h1 {
 	font-size: 200px;
 }
 
-p {font-family: Roboto, san-serif;
-	font-size: 40px;
-}
-
 .important{
 	color: #9ABD60;
 	font-size: 32px;
@@ -27,6 +28,7 @@ p {font-family: Roboto, san-serif;
 	text-align:left;
 	line-height: 55px; 
 	font-weight: lighter;
+	margin:200px;
 }
 
 a{
