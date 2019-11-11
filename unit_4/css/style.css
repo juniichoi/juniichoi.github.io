@@ -1,5 +1,5 @@
 body {
-	background-color: #00000
+	background-color: #E9FDFE
 }
 
 h1 {
@@ -7,11 +7,12 @@ h1 {
 	font-family: 'Jomolhari', serif;
 	font-size: 2em;
 	text-align:center;
+	font-weight:100;
 	margin:500px;
 }
 
-p {font-family: Roboto, san-serif;
-	font-size: 40px;
+p {font-family: 'Jomolhari', serif;
+	font-size: 23px;
 }
 
 #second{
@@ -21,8 +22,16 @@ p {font-family: Roboto, san-serif;
 	font-size: 200px;
 }
 
+#six{ 
+	color:#C1DCDE;
+	text-align:center;
+	margin:500px;
+
+
+}
+
 .important{
-	color: #9ABD60;
+	color: #FFFFFF;
 	font-size: 32px;
 	font-family: PT serif, serif;
 	text-align:left;
