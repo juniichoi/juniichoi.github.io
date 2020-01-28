@@ -1,4 +1,11 @@
 
+a {
+	font-family: 'Jomolhari', serif;
+	font-size:48px;
+	text-align:center;
+	font-weight:500;
+}
+
 h1 {
 	color: #636363;
 	font-family: 'Jomolhari', serif;
@@ -7,10 +14,16 @@ h1 {
 	font-weight:100;
 }
 
-p {font-family: 'Jomolhari', serif;
+p {
+	font-family: 'Jomolhari', serif;
 	font-size: 24px;
 	line-height:48px;
 }
+
+img { 
+	display:block;
+	margin: 0 auto;
+ }
 
 #wrapper {
 	width:860px;
