@@ -12,13 +12,18 @@ p{font-family: 'Jomolhari', serif;
 	line-height: 48px;
 }
 
+html {
+	background: url(images/index1.jpg);
+	height: 100%;
+}
+
+
 .picture-container{
 	text-align: center; 
-	margin-top: 20vh;
 }
 
 .picture-container > img.light {
-	margin: auto;
+	height: 100%;
 }
 
 .yellow-page{
@@ -49,6 +54,8 @@ a#text:hover, p.important > a:hover{
 }
 
 #wrapper{
+	font-size:32px;
+	font-family: 'Jomolhari', serif;
 	width: 860px;
 	margin: 0 auto;
 	margin-top: 200px;
